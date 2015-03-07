@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\malkomich\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="F:\Dropbox\PROYECTOS\ANDROID\EMSimulator\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-2701d0a910bcc623939abea62d2f21f464d014ba.jar" />
+    </item>
+    <item
+        jar="F:\Dropbox\PROYECTOS\ANDROID\EMSimulator\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="F:\Dropbox\PROYECTOS\ANDROID\EMSimulator\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-d453e536e4952485b889f61ea4e86c34203a3efd.jar" />
+    </item>
+    <item
+        jar="F:\Dropbox\PROYECTOS\ANDROID\EMSimulator\app\libs\appcompat_v7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9b66433f00de92f3355b25cdd3a0a6ac3423fa43">
+        <dex dex="F:\Dropbox\PROYECTOS\ANDROID\EMSimulator\app\build\intermediates\pre-dexed\debug\appcompat_v7-3aa490eaa10769f8948378084685f77695a3b854.jar" />
+    </item>
+    <item
+        jar="F:\Dropbox\PROYECTOS\ANDROID\EMSimulator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="F:\Dropbox\PROYECTOS\ANDROID\EMSimulator\app\build\intermediates\pre-dexed\debug\classes-344ffa433038dddc183341449c950d97f3f54a91.jar" />
+    </item>
+    <item
+        jar="F:\Dropbox\PROYECTOS\ANDROID\EMSimulator\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="F:\Dropbox\PROYECTOS\ANDROID\EMSimulator\app\build\intermediates\pre-dexed\debug\classes-25385eaf5120d56535b37d983b45ae8f240d394d.jar" />
+    </item>
+
+</items>

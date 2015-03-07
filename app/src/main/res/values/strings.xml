@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EM Simulator</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_ccc">Corriente Continua</string>
+    <string name="menu_cca">Corriente Alterna</string>
+    <string name="title_activity_ccc">CCCActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_cca">CCAActivity</string>
+    <string name="not_implemented">Aún no implementado.</string>
+    <!-- Same Item Names as is Enum class "CircuitItem" -->
+    <string name="dc_generator">Generador</string>
+    <string name="ac_generator">Generador</string>
+    <string name="resistance">Resistencia</string>
+    <string name="condenser">Condensador</string>
+    <string name="self_induction">Bobina de autoconduccion</string>
+    <string name="motor">Motor</string>
+    <string name="switch_1">Interruptor</string>
+    <string name="switch_2">Interruptor Doble</string>
+    <string name="diode">Diodo</string>
+    <string name="zener_diode">Diodo Zener</string>
+    <string name="ammeter">Amperímetro</string>
+    <string name="voltmeter">Voltímetro</string>
+    
+    <string name="dc_generator_description">Generador de corriente continua</string>
+    <string name="ac_generator_description">Generador de corriente alterna</string><string name="resistance_description">Componente que ofrece una oposición al paso de la corriente</string>
+    <string name="condenser_description">Condensador de cargas</string>
+    <string name="self_induction_description">Bobina de autoinduccion de energía electromagnética</string>
+    <string name="motor_description">Aparato receptor de corriente</string>
+    <string name="switch_1_description">Interruptor de vía única</string>
+    <string name="switch_2_description">Interruptor de doble vía</string>
+    <string name="diode_description">Diodo normal</string>
+    <string name="zener_diode_description">Diodo Zener</string>
+    <string name="ammeter_description">Medidor de la intensidad de corriente eléctrica</string>
+    <string name="voltmeter_description">Medidor del voltaje del circuito</string>
+
+</resources>
